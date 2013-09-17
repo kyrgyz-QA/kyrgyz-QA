@@ -1,0 +1,4 @@
+kyrgyz-QA
+=========
+
+learn git
